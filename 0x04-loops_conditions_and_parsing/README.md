@@ -20,11 +20,11 @@ What you should learn from this project:
 * Write a Bash script that displays Holberton School 10 times.
 
 
-### [2. While Holberton School loop](./2-while_holberton_school)
+### [2. While Best School loop](./2-while_holberton_school)
 * Write a Bash script that displays Holberton School 10 times.
 
 
-### [3. Until Holberton School loop](./3-until_holberton_school)
+### [3. Until Best School loop](./3-until_holberton_school)
 * Write a Bash script that displays Holberton School 10 times.
 
 
