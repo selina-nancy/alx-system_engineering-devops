@@ -16,20 +16,20 @@ What you should learn from this project:
 * Read for this task:
 
 
-### [1. For Holberton School loop](./1-for_holberton_school)
-* Write a Bash script that displays Holberton School 10 times.
+### [1. For Best School loop](./1-for_holberton_school)
+* Write a Bash script that displays Best School 10 times.
 
 
 ### [2. While Best School loop](./2-while_holberton_school)
-* Write a Bash script that displays Holberton School 10 times.
+* Write a Bash script that displays Best School 10 times.
 
 
 ### [3. Until Best School loop](./3-until_holberton_school)
-* Write a Bash script that displays Holberton School 10 times.
+* Write a Bash script that displays Best School 10 times.
 
 
 ### [4. If 9, say Hi!](./4-if_9_say_hi)
-* Write a Bash script that displays Holberton School 10 times, but for the 9th iteration, displays Holberton School and then Hi on a new line.
+* Write a Bash script that displays Best School 10 times, but for the 9th iteration, displays Best School and then Hi on a new line.
 
 
 ### [5. 4 bad luck, 8 is your chance](./5-4_bad_luck_8_is_your_chance)
@@ -49,7 +49,7 @@ What you should learn from this project:
 
 
 ### [9. To file, or not to file](./9-to_file_or_not_to_file)
-* Write a Bash script that gives you information about the holbertonschool file.
+* Write a Bash script that gives you information about the bestschool file.
 
 
 ### [10. FizzBuzz](./10-fizzbuzz)
