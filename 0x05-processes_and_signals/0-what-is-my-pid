@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 #!/usr/bin/env bash
 # A Bash script that displays its PID
 
 echo $$
+=======
+#!/usr/bin/env bash
+# a Bash script that displays its own PID
+echo $$
+>>>>>>> 0f8186a2581a83d810da0906e439f52011ef94f4

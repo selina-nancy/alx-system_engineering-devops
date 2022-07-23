@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #!/usr/bin/env bash
 # Displays "To infinity and beyond" indefinitely
 
@@ -5,3 +6,12 @@ while true; do
       echo "To infinity and beyond"
       sleep 2
 done
+=======
+#!/usr/bin/env bash
+# a Bash script that displays "To infinity and beyond" indefinitely
+while true
+do
+  echo "To infinity and beyond"
+  sleep 2
+done
+>>>>>>> 0f8186a2581a83d810da0906e439f52011ef94f4

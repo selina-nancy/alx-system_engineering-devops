@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 #!/usr/bin/env bash
 # Uses code from "1-list_your_processes" to only display lines containing "bash"
 # shellcheck disable=SC2009
 
 ps axuf | grep "bash"
+=======
+#!/usr/bin/env bash
+# a Bash script that displays a list of currently running processes:
+# shellcheck disable=SC2009
+ps -aux | grep "bash"
+>>>>>>> 0f8186a2581a83d810da0906e439f52011ef94f4
