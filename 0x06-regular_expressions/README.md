@@ -5,7 +5,7 @@ What you should learn from this project:
 
 ---
 
-### [0. Simply matching Holberton](./0-simply_match_holberton.rb)
+### [0. Simply matching School](./0-simply_match_school.rb)
 * 
 
 
