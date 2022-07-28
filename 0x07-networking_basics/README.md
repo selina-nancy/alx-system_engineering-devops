@@ -27,7 +27,7 @@ At the end of this project you are expected to be able to explain, without the h
   * What are ports are used for SSH, HTTP, and HTTPS?
 * What tools/protocols are often used to check if a device is connected to a network?
 ## Project Requirements
-* OS: Ubuntu 14.04 LTS
+* OS: Ubuntu 20.04 LTS
 ## File Descriptions
 * [0-OSI_model](0-OSI_model) - Multiple choice answers to the questions:
   * What is the OSI model?
