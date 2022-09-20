@@ -19,7 +19,7 @@ What you should learn from this project:
 
 
 ### [2. Setup a domain name](./2-setup_a_domain_name)
-* .TECH Domains is one of the top domain providers. They are known for the stability and quality of their DNS hosting solution. Holberton School partnered with .TECH Domains so that you can learn about DNS.
+* .TECH Domains is one of the top domain providers. They are known for the stability and quality of their DNS hosting solution. Best School partnered with .TECH Domains so that you can learn about DNS.
 
 
 ### [3. Redirection](./3-redirection)
